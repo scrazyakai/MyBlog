@@ -18,10 +18,10 @@ projects:
     desc: 学习Redis
     link: https://github.com/scrazyakai/sky-take-out
 
-  # - icon: book
-  #   name: 书籍名称
-  #   desc: 书籍详细描述
-  #   link: https://你的书籍链接
+  - icon: folder-open
+    name: 天机学堂
+    desc: 书籍详细描述
+    link: https://你的书籍链接
 
   # - icon: newspaper
   #   name: 文章名称
@@ -38,7 +38,7 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: 众多Jvaver中的一员
+footer: 随心而动
 ---
 
 这是一个博客主页的案例。
