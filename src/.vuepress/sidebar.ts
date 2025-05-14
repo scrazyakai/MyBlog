@@ -4,23 +4,29 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "如何使用",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      text: "算法系列",
+      icon: "Algorithm",
+      prefix: "algorithm/",
       children: "structure",
     },
     {
-      text: "文章",
-      icon: "book",
+      text: "独立开发项目系列",
+      icon: "project",
+      prefix: "project/",
+      children: "structure",
+    },
+    {
+      text: "杂谈系列",
+      icon: "study",
       prefix: "posts/",
       children: "structure",
     },
-    "intro",
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
-    },
+    
+    // "intro",
+    // {
+    //   text: "幻灯片",
+    //   icon: "person-chalkboard",
+    //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+    // },
   ],
 });
