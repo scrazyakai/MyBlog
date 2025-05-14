@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: scrazy_akai的博客
 heroFullScreen: true
-tagline: “功名富贵笑谈中，回收一场春梦”
+tagline: “功名富贵笑谈中，回首一场春梦”
 projects:
   - icon: folder-open
     name: 项目名称
