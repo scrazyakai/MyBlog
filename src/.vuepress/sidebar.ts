@@ -5,19 +5,19 @@ export default sidebar({
     "",
     {
       text: "算法系列",
-      icon: "Algorithm",
+      icon: "pen-to-square",
       prefix: "algorithm/",
       children: "structure",
     },
     {
       text: "独立开发项目系列",
-      icon: "project",
+      icon: "pen-to-square",
       prefix: "project/",
       children: "structure",
     },
     {
       text: "杂谈系列",
-      icon: "study",
+      icon: "pen-to-square",
       prefix: "posts/",
       children: "structure",
     },
