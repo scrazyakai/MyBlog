@@ -9,36 +9,36 @@ heroFullScreen: true
 tagline: “功名富贵笑谈中，回首一场春梦”
 projects:
   - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 苍穹外卖
+    desc: 黑马苍穹外卖
+    link: https://github.com/scrazyakai/sky-take-out
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 黑马点评
+    desc: 学习Redis
+    link: https://github.com/scrazyakai/sky-take-out
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+  # - icon: book
+  #   name: 书籍名称
+  #   desc: 书籍详细描述
+  #   link: https://你的书籍链接
 
-  - icon: newspaper
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+  # - icon: newspaper
+  #   name: 文章名称
+  #   desc: 文章详细描述
+  #   link: https://你的文章链接
 
-  - icon: user-group
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+  # - icon: user-group
+  #   name: 伙伴名称
+  #   desc: 伙伴详细介绍
+  #   link: https://你的伙伴链接
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  # - icon: https://theme-hope-assets.vuejs.press/logo.svg
+  #   name: 自定义项目
+  #   desc: 自定义详细介绍
+  #   link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: 众多Jvaver中的一员
 ---
 
 这是一个博客主页的案例。
