@@ -1,15 +1,14 @@
 ---
 icon: pen-to-square
-date: 2022-01-01
-category:
-  - 苹果
+date: 2025-5-14
+category: 回溯算法
+  - 
 tag:
-  - 红
-  - 大
-  - 圆
+  -dfs
+  -回溯
 ---
 
-# 苹果 1
+# 回溯算法
 
 ## 标题 2
 
