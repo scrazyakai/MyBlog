@@ -8,20 +8,21 @@ heroText: scrazy_akai的博客
 heroFullScreen: true
 tagline: “功名富贵笑谈中，回首一场春梦”
 projects:
-  - icon: folder-open
-    name: 苍穹外卖
-    desc: 黑马苍穹外卖
-    link: https://github.com/scrazyakai/sky-take-out
-
   - icon: link
-    name: 黑马点评
-    desc: 学习Redis
-    link: https://github.com/scrazyakai/sky-take-out
+    name: 项目
+    desc: 独立项目
+    link: https://scrazyakai.github.io/MyBlog/project/
 
   - icon: folder-open
-    name: 天机学堂
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: 算法
+    desc: 算法学习
+    link: https://scrazyakai.github.io/MyBlog/algorithm/
+
+  - icon: folder-open
+    name: 杂谈
+    desc: 小记
+    link: https://scrazyakai.github.io/MyBlog/posts/
+
 
   # - icon: newspaper
   #   name: 文章名称
