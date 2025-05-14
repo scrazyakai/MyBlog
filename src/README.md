@@ -4,9 +4,9 @@ layout: Blog
 icon: house
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: scrazy_akai的博客
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: “功名富贵笑谈中，回收一场春梦”
 projects:
   - icon: folder-open
     name: 项目名称
