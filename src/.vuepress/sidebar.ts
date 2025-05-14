@@ -6,19 +6,19 @@ export default sidebar({
     {
       text: "算法系列",
       icon: "pen-to-square",
-      prefix: "/algorithm/",
+      prefix: "algorithm/",
       children: "structure",
     },
     {
       text: "独立开发项目系列",
       icon: "pen-to-square",
-      prefix: "/project/",
+      prefix: "project/",
       children: "structure",
     },
     {
       text: "杂谈系列",
       icon: "pen-to-square",
-      prefix: "/posts/",
+      prefix: "posts/",
       children: "structure",
     },
     
