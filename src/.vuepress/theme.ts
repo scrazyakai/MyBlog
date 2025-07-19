@@ -23,6 +23,9 @@ export default hopeTheme({
   // 侧边栏
   sidebar,
 
+  // 深色模式
+  darkmode: "force",
+
   // 页脚
   footer: "默认页脚",
   displayFooter: true,
