@@ -1,25 +1,29 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
+  {
+    text: '主页',
+    icon: 'house',
+    link: '/'
+  },
   {
     text: '算法',
-    icon: 'pen-to-square',
+    icon: 'lightbulb',
     link: '/algorithm/'
   },
   {
     text: '独立项目',
-    icon: 'pen-to-square',
+    icon: 'folder-open',
     link: '/project/'
   },
   {
     text: '杂谈',
-    icon: 'pen-to-square',
+    icon: 'comment-dots',
     link: '/posts/'
   },
   {
     text: '时间轴',
-    icon: 'time',
+    icon: 'timeline',
     link: '/timeline/'
   },
 ]);
