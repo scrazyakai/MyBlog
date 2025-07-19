@@ -1,1 +1,42 @@
-// place your custom styles here
+// 移除默认的 home-features 边框
+.home-features {
+  border-top: none;
+}
+
+// 导航栏和侧边栏的磨砂玻璃效果
+.navbar,
+.sidebar {
+  background-color: rgba(26, 26, 26, 0.65); // 半透明深灰背景
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08); // 柔和的底部边框
+}
+
+// 移除侧边栏的右边框
+.sidebar {
+  border-right: none;
+}
+
+// 特性卡片、按钮和链接的微妙交互
+.feature,
+.button,
+a.nav-link,
+.sidebar-item {
+  transition: all 0.2s ease-in-out;
+  border-radius: 8px; // 圆角
+}
+
+.feature:hover,
+.button:hover,
+a.nav-link:hover,
+.sidebar-item.active,
+.sidebar-item:hover {
+  background-color: rgba(255, 255, 255, 0.05); // 悬停时轻微提亮
+  transform: translateY(-2px); // 轻微上浮
+}
+
+// 为特性卡片添加更柔和的边框
+.feature {
+  border: 1px solid #2c2c2c;
+  background-color: #1a1a1a;
+}
